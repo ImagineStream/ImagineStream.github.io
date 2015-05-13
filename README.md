@@ -1,2 +1,2 @@
 # ImagineStream.github.io
-My blog
+This is my blog generate using hugo
